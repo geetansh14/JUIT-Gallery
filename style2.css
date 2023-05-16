@@ -41,6 +41,7 @@ main {
     float: left;
     margin-right: 10px;
     -webkit-filter: brightness(100%);
+    filter: brightness(100%);
 }
 
 .folder div{
