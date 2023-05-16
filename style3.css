@@ -103,6 +103,8 @@ footer {
     width: calc(25% - 1rem);
     margin-bottom: 1rem;
     overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.438);
 }
 
 .image {
@@ -140,7 +142,7 @@ footer {
     max-height: 60%;
     position: fixed;
     top: 20%;
-    left:29%;
+    left: 28%;
     transform: translate(0%, 0%);
 }
 
