@@ -6,7 +6,6 @@ loginBtn.addEventListener('click', async (event) => {
     const enrollment = document.getElementById('enrollment').value;
     const password = document.getElementById('password').value;
 
-    // Make an HTTP request to the API
     const url = "https://juit-webkiosk-api.onrender.com/v1.0/login";
     const options = {
         method: "POST",
